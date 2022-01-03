@@ -4,7 +4,7 @@
 ## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/IDnyaKosong) 
 <br>
 
-[![Profile views](https://gpvc.arturio.dev/muhammadrizky16)](https://github.com/UserLazy)
+[![Profile views](https://gpvc.arturio.dev/muhammadrizky16)](https://github.com/muhammadrizky16)
 ### Statistik
 <p align="center"><a href="https://github.com/muhammadrizky16"><img src="https://github-readme-stats.vercel.app/api?username=muhammadrizky16&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/muhammadrizky16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizky16&theme=radical&layout=compact"></a></p> 
